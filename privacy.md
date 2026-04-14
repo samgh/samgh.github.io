@@ -1,0 +1,22 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy
+
+# Privacy Policy
+
+This application is a personal project used to send SMS notifications for personal alerts and reminders.
+
+## Information Collected
+We collect phone numbers provided directly by users in person for the purpose of sending SMS notifications.
+
+## How Information Is Used
+Phone numbers are used solely to send SMS messages related to the application’s functionality. We do not sell, share, or distribute personal information to third parties.
+
+## Data Security
+Reasonable measures are taken to protect user information.
+
+## User Rights
+Users may opt out of SMS communications at any time by replying STOP.
+
+## Contact
+For any questions, please contact sam.gavishughson@gmail.com:
