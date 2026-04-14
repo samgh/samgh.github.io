@@ -21,8 +21,8 @@
 title: Samgh Site
 email: sam.gavishughson@gmail.com
 description: Site for samgh Twilio SMS testing
-baseurl: /docs # the subpath of your site, e.g. /blog
-url: samgh.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # served from the site root on GitHub Pages
+url: "https://samgh.github.io"
 
 # Build settings
 theme: minima
