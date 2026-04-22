@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: SMS Opt-In
 permalink: /sms-opt-in/
------------------------
+---
 
 # {{ page.title }}
 
@@ -24,7 +23,7 @@ Sign up to receive personal alerts and reminders by text message.
     <label for="consent" style="display: flex; gap: 0.75rem; align-items: flex-start;">
       <input id="consent" name="consent" type="checkbox" style="margin-top: 0.25rem;" />
       <span>
-        By checking this box and submitting this form, you agree to receive recurring SMS messages from <strong>Sam's Stock Recommendation Porject</strong> for personal alerts and reminders. Message frequency varies. Message and data rates may apply. Reply <strong>STOP</strong> to opt out and <strong>HELP</strong> for help. Consent is not a condition of purchase. View our <a href="/privacy/">Privacy Policy</a> and <a href="/terms/">Terms &amp; Conditions</a>.
+        By checking this box and submitting this form, you agree to receive recurring SMS messages from <strong>Sam's Stock Recommendation Project</strong> for personal alerts and reminders. Message frequency varies. Message and data rates may apply. Reply <strong>STOP</strong> to opt out and <strong>HELP</strong> for help. Consent is not a condition of purchase. View our <a href="/privacy">Privacy Policy</a> and <a href="/terms">Terms &amp; Conditions</a>.
       </span>
     </label>
   </div>
