@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SMS Opt-In
-permalink: /sms-opt-in/
+permalink: /sms-optin
 ---
 
 # {{ page.title }}
